@@ -1,1 +1,2 @@
 # Proyecto-preadmisionLaboratoria-squad4.2
+Nuestro proyecto fue pensado y desarrollado para continuar con el proceso de preadmisión en la primera generación de bootcamp de laboratorio en Colombia, Bogotá DC partiendo de la idea de desarrollar una trivia que promueva un interés y cumplir con una necesidad de conciencia en la alimentación de las personas, cultura general nutricional y dar opción de ir a un blog que paso a paso enseña a preparar platos nuestros (típicos), callejeros (comida rápida o de fácil acceso) y saludables con gran contenido nutricional.
